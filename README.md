@@ -1,4 +1,4 @@
-# Google Photos Filter To Multiple Photos
+# Google Photos Automation: Apply Filter on Multiple Photos
 Apply filter to multiple photos Google Photos at once
 
 ## Instructions
